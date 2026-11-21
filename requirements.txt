@@ -1,0 +1,26 @@
+torch==2.7.1
+torchvision==0.22.1
+transformers==5.5.4
+tokenizers==0.22.2
+huggingface_hub==1.33.0
+safetensors==0.8.0
+sentencepiece==0.2.2
+numpy==2.2.6
+h5py==3.16.0
+mujoco==3.3.2
+robosuite==1.4.1
+bddl==3.6.0
+gym==0.26.2
+easydict==1.13
+einops==0.8.2
+imageio==2.37.4
+opencv-python-headless==4.13.0.92
+pyopengl==3.1.10
+matplotlib==3.10.7
+pyyaml==6.0.3
+num2words==0.5.14
+qwen-vl-utils==0.0.14
+omegaconf==2.4.0
+vector-quantize-pytorch==1.27.15
+libero2gym==0.1.0
+lerobot @ git+https://github.com/huggingface/lerobot@e595b7902714ba51f91e47523f66f89c5181b649
